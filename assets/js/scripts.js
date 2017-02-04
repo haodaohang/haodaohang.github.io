@@ -5,9 +5,9 @@ jQuery(document).ready(function() {
         Background slideshow
     */
     $('.coming-soon').backstretch([
-      "assets/img/backgrounds/1.jpg"
-    , "assets/img/backgrounds/2.jpg"
-    , "assets/img/backgrounds/3.jpg"
+      "http://wx3.sinaimg.cn/large/005Z44hOly1fcey9whzckj31hc0f91kx.jpg"
+    , "http://wx1.sinaimg.cn/large/005Z44hOly1fcey9xf7lsj31hc0xcwmn.jpg"
+    , "http://wx3.sinaimg.cn/large/005Z44hOly1fcey9xybg1j31hc0u0jwa.jpg"
     ], {duration: 3000, fade: 750});
 
     /*
